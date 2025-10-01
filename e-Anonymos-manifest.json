@@ -4,6 +4,20 @@
   "license": "http://rightsstatements.org/vocab/InC/1.0/",
   "attribution": "村田研究室",
   "viewingDirection": "left-to-right",
+  "metadata": [
+    {
+      "label": "publisher",
+      "value": "Unknown"
+    },
+    {
+      "label": "date",
+      "value": "ca. 1400"
+    },
+    {
+      "label": "source",
+      "value": "GEORGES DIMITROΚALLIS. GERAKI (LACONIE) LES PEINTURES MURALES  DES EGLISES DE CASTRO.2001"
+    }
+  ],
   "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-manifest.json",
   "@type": "sc:Manifest",
   "@context": "http://iiif.io/api/presentation/2/context.json",
