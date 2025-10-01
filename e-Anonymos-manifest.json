@@ -12,7 +12,435 @@
       "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/sequence/s1",
       "@type": "sc:Sequence",
       "label": "Current Page Order",
-      "canvases": []
+      "canvases": [
+        {
+          "metadata": [
+            {
+              "label": "title",
+              "value": "Decorative motif with anthemia"
+            },
+            {
+              "label": "description",
+              "value": "北壁の墓所の装飾（南側面）"
+            },
+            {
+              "label": "license",
+              "value": "http://rightsstatements.org/vocab/InC/1.0/"
+            },
+            {
+              "label": "attribution",
+              "value": "村田研究室"
+            },
+            {
+              "label": "viewingDirection",
+              "value": "left-to-right"
+            },
+            {
+              "label": "publisher",
+              "value": "Unknown"
+            },
+            {
+              "label": "date",
+              "value": "ca. 1400"
+            },
+            {
+              "label": "source",
+              "value": "GEORGES DIMITROΚALLIS. GERAKI (LACONIE) LES PEINTURES MURALES  DES EGLISES DE CASTRO.2001"
+            }
+          ],
+          "label": "Decorative motif with anthemia",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 7008,
+                "height": 4672,
+                "@id": "https://raw.githubusercontent.com/Han-Sotsuken-Klis/e-Anonymos/main/e-Anonymos-images/DSC02553.JPG/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://raw.githubusercontent.com/Han-Sotsuken-Klis/e-Anonymos/main/e-Anonymos-images/DSC02553.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/annotation/p1",
+              "on": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p1"
+            }
+          ],
+          "width": 7008,
+          "height": 4672,
+          "@type": "sc:Canvas",
+          "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p1"
+        },
+        {
+          "metadata": [
+            {
+              "label": "title",
+              "value": "Decorative motif with anthemia"
+            },
+            {
+              "label": "description",
+              "value": "北壁の墓所の装飾（西側面）碑文"
+            },
+            {
+              "label": "license",
+              "value": "http://rightsstatements.org/vocab/InC/1.0/"
+            },
+            {
+              "label": "attribution",
+              "value": "村田研究室"
+            },
+            {
+              "label": "viewingDirection",
+              "value": "left-to-right"
+            },
+            {
+              "label": "publisher",
+              "value": "Unknown"
+            },
+            {
+              "label": "date",
+              "value": "ca. 1400"
+            },
+            {
+              "label": "source",
+              "value": "GEORGES DIMITROΚALLIS. GERAKI (LACONIE) LES PEINTURES MURALES  DES EGLISES DE CASTRO.2001"
+            }
+          ],
+          "label": "Decorative motif with anthemia",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6975,
+                "height": 4650,
+                "@id": "https://raw.githubusercontent.com/Han-Sotsuken-Klis/e-Anonymos/main/e-Anonymos-images/DSC02557.JPG/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://raw.githubusercontent.com/Han-Sotsuken-Klis/e-Anonymos/main/e-Anonymos-images/DSC02557.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/annotation/p2",
+              "on": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p2"
+            }
+          ],
+          "width": 6975,
+          "height": 4650,
+          "@type": "sc:Canvas",
+          "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p2"
+        },
+        {
+          "metadata": [
+            {
+              "label": "title",
+              "value": "Decorative motif with anthemia"
+            },
+            {
+              "label": "description",
+              "value": "北壁の墓所の装飾（正面）"
+            },
+            {
+              "label": "license",
+              "value": "http://rightsstatements.org/vocab/InC/1.0/"
+            },
+            {
+              "label": "attribution",
+              "value": "村田研究室"
+            },
+            {
+              "label": "viewingDirection",
+              "value": "left-to-right"
+            },
+            {
+              "label": "publisher",
+              "value": "Unknown"
+            },
+            {
+              "label": "date",
+              "value": "ca. 1400"
+            },
+            {
+              "label": "source",
+              "value": "GEORGES DIMITROΚALLIS. GERAKI (LACONIE) LES PEINTURES MURALES  DES EGLISES DE CASTRO.2001"
+            }
+          ],
+          "label": "Decorative motif with anthemia",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6750,
+                "height": 4500,
+                "@id": "https://raw.githubusercontent.com/Han-Sotsuken-Klis/e-Anonymos/main/e-Anonymos-images/DSC02574.JPG/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://raw.githubusercontent.com/Han-Sotsuken-Klis/e-Anonymos/main/e-Anonymos-images/DSC02574.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/annotation/p3",
+              "on": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p3"
+            }
+          ],
+          "width": 6750,
+          "height": 4500,
+          "@type": "sc:Canvas",
+          "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p3"
+        },
+        {
+          "metadata": [
+            {
+              "label": "title",
+              "value": "Theotokos Blachernitissa"
+            },
+            {
+              "label": "description",
+              "value": "祭壇奥の後陣（アプス）の半円ドーム部分の装飾"
+            },
+            {
+              "label": "license",
+              "value": "http://rightsstatements.org/vocab/InC/1.0/"
+            },
+            {
+              "label": "attribution",
+              "value": "村田研究室"
+            },
+            {
+              "label": "viewingDirection",
+              "value": "left-to-right"
+            },
+            {
+              "label": "publisher",
+              "value": "Unknown"
+            },
+            {
+              "label": "date",
+              "value": "ca. 1400"
+            },
+            {
+              "label": "source",
+              "value": "GEORGES DIMITROΚALLIS. GERAKI (LACONIE) LES PEINTURES MURALES  DES EGLISES DE CASTRO.2001"
+            }
+          ],
+          "label": "Theotokos Blachernitissa",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 6750,
+                "height": 4500,
+                "@id": "https://raw.githubusercontent.com/Han-Sotsuken-Klis/e-Anonymos/main/e-Anonymos-images/DSC02752.JPG/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://raw.githubusercontent.com/Han-Sotsuken-Klis/e-Anonymos/main/e-Anonymos-images/DSC02752.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/annotation/p4",
+              "on": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p4"
+            }
+          ],
+          "width": 6750,
+          "height": 4500,
+          "@type": "sc:Canvas",
+          "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p4"
+        },
+        {
+          "metadata": [
+            {
+              "label": "title",
+              "value": "Synaxis of the Archangels"
+            },
+            {
+              "label": "description",
+              "value": "南壁・東側アーチの壁画"
+            },
+            {
+              "label": "license",
+              "value": "http://rightsstatements.org/vocab/InC/1.0/"
+            },
+            {
+              "label": "attribution",
+              "value": "村田研究室"
+            },
+            {
+              "label": "viewingDirection",
+              "value": "left-to-right"
+            },
+            {
+              "label": "publisher",
+              "value": "Unknown"
+            },
+            {
+              "label": "date",
+              "value": "ca. 1400"
+            },
+            {
+              "label": "source",
+              "value": "GEORGES DIMITROΚALLIS. GERAKI (LACONIE) LES PEINTURES MURALES  DES EGLISES DE CASTRO.2001"
+            }
+          ],
+          "label": "Synaxis of the Archangels",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 4500,
+                "height": 6750,
+                "@id": "https://raw.githubusercontent.com/Han-Sotsuken-Klis/e-Anonymos/main/e-Anonymos-images/DSC03496.JPG/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://raw.githubusercontent.com/Han-Sotsuken-Klis/e-Anonymos/main/e-Anonymos-images/DSC03496.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/annotation/p5",
+              "on": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p5"
+            }
+          ],
+          "width": 4500,
+          "height": 6750,
+          "@type": "sc:Canvas",
+          "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p5"
+        },
+        {
+          "metadata": [
+            {
+              "label": "title",
+              "value": "Saint Nicholas"
+            },
+            {
+              "label": "description",
+              "value": "南壁・アーチの間の壁画"
+            },
+            {
+              "label": "license",
+              "value": "http://rightsstatements.org/vocab/InC/1.0/"
+            },
+            {
+              "label": "attribution",
+              "value": "村田研究室"
+            },
+            {
+              "label": "viewingDirection",
+              "value": "left-to-right"
+            },
+            {
+              "label": "publisher",
+              "value": "Unknown"
+            },
+            {
+              "label": "date",
+              "value": "ca. 1400"
+            },
+            {
+              "label": "source",
+              "value": "GEORGES DIMITROΚALLIS. GERAKI (LACONIE) LES PEINTURES MURALES  DES EGLISES DE CASTRO.2001"
+            }
+          ],
+          "label": "Saint Nicholas",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 4500,
+                "height": 6750,
+                "@id": "https://raw.githubusercontent.com/Han-Sotsuken-Klis/e-Anonymos/main/e-Anonymos-images/DSC03501.JPG/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://raw.githubusercontent.com/Han-Sotsuken-Klis/e-Anonymos/main/e-Anonymos-images/DSC03501.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/annotation/p6",
+              "on": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p6"
+            }
+          ],
+          "width": 4500,
+          "height": 6750,
+          "@type": "sc:Canvas",
+          "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p6"
+        },
+        {
+          "metadata": [
+            {
+              "label": "title",
+              "value": "Saint George and the Dragon"
+            },
+            {
+              "label": "description",
+              "value": "南壁・中央アーチの壁画"
+            },
+            {
+              "label": "license",
+              "value": "http://rightsstatements.org/vocab/InC/1.0/"
+            },
+            {
+              "label": "attribution",
+              "value": "村田研究室"
+            },
+            {
+              "label": "viewingDirection",
+              "value": "left-to-right"
+            },
+            {
+              "label": "publisher",
+              "value": "Unknown"
+            },
+            {
+              "label": "date",
+              "value": "ca. 1400"
+            },
+            {
+              "label": "source",
+              "value": "GEORGES DIMITROΚALLIS. GERAKI (LACONIE) LES PEINTURES MURALES  DES EGLISES DE CASTRO.2001"
+            }
+          ],
+          "label": "Saint George and the Dragon",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 4500,
+                "height": 6750,
+                "@id": "https://raw.githubusercontent.com/Han-Sotsuken-Klis/e-Anonymos/main/e-Anonymos-images/DSC03504.JPG/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://raw.githubusercontent.com/Han-Sotsuken-Klis/e-Anonymos/main/e-Anonymos-images/DSC03504.JPG",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/annotation/p7",
+              "on": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p7"
+            }
+          ],
+          "width": 4500,
+          "height": 6750,
+          "@type": "sc:Canvas",
+          "@id": "https://Han-Sotsuken-Klis.github.io/e-Anonymos/e-Anonymos-images/canvas/p7"
+        }
+      ]
     }
   ]
 }
